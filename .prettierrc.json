@@ -14,5 +14,6 @@
   "tabWidth": 2,
   "arrowParens": "always",
   "endOfLine": "lf",
-  "singleAttributePerLine": true
+  "singleAttributePerLine": true,
+  "htmlSelfClosing": true
 }
